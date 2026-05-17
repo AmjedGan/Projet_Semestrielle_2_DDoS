@@ -65,7 +65,6 @@ The dataset contains:
 The following models were evaluated:
 
 - Random Forest
-- Gradient Boosting
 - Support Vector Machine (SVM)
 
 Random Forest achieved the best overall performance.
@@ -118,7 +117,6 @@ Metrics used:
 | Model | Accuracy | ROC-AUC |
 |------|------|------|
 | Random Forest | 99.1% | 0.997 |
-| Gradient Boosting | 98.7% | 0.996 |
 | SVM | 97.9% | 0.993 |
 
 ---
